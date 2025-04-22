@@ -85,6 +85,37 @@ For any questions or support, please open an issue in the repository.
 
 ---
 
-*This README was generated based on the available information about the Tracker-for-Team project.*
+## Employee Task List Example
 
-Let me know if you want me to customize it further or add specific sections!
+Below is a screenshot of the employee task list after login, showing task details and actions available:
+
+## Employee Task List Example
+
+Below is a screenshot of the employee task list after login, showing task details and actions available:
+
+![image](https://github.com/user-attachments/assets/f65ddb11-966d-40f4-ac8b-39ec8c171667)
+
+
+![image](https://github.com/user-attachments/assets/e9f6a831-485d-4450-8767-892e0faf43f3)
+
+---
+Below is a screenshot of the manager task list after login, showing task details and actions available:
+
+![image](https://github.com/user-attachments/assets/79622087-1ac8-4dfd-aaa4-0eb51a84afeb)
+
+---
+creating task by employee:
+
+![image](https://github.com/user-attachments/assets/6a3e2279-7788-4d2e-a695-53bd5be7d00c)
+
+---
+edit page:
+
+![image](https://github.com/user-attachments/assets/2b573009-5063-4439-9bff-bd1581885617)
+
+
+
+
+
+
+
